@@ -1,0 +1,1 @@
+This is a recipe project as part of The Odin Project curriculum. I will demonstrate stuff I have learned.
